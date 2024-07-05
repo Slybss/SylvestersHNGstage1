@@ -1,3 +1,0 @@
-Lily_Scott;hr,management
-David_williams;sales,marketing
-Juliet_Paterson;it,developers
