@@ -1,6 +1,4 @@
-Here is a possible implementation of the bash script:
 
-bash
 #!/bin/bash
 
 # Set the log file and password file
