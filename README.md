@@ -1,1 +1,1 @@
-# SylvestersHNGstage1
+Efficient user management is paramount for maintaining system security and functionality. I've developed, As a SysOps engineer a bash script called create_users.sh that helps automates user creation, password management, group assignment, and logging on Linux systems to simplify this process. This script is designed to dynamically handle multiple users and groups from a structured input file.
